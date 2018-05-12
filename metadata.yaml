@@ -1,0 +1,28 @@
+_repo: '----_25286'
+_version: 0.1.0
+alternative_title: Huan Xi Yuan Jia
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xihuyuyinzhuren
+    alias: 西湖漁隱主人
+    gutenberg_agent_id: '31216'
+    url: http://www.gutenberg.org/2009/agents/31216
+description: ''
+gutenberg_bookshelf: Erotic Fiction
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25286'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature, Chinese'
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- !lcc 'PL'
+title: 歡喜冤家
+url: http://www.gutenberg.org/ebooks/25286
